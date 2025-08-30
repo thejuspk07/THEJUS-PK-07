@@ -1,4 +1,4 @@
-# THEJUS-PK-07
+# thejus pk-07
 # 👋 Hi, I'm Thejus P K  
 
 🎓 B.Tech Student in Artificial Intelligence & Data Science (2023–2027)  
