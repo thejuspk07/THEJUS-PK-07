@@ -27,8 +27,16 @@
 - 🐍 Python Basics & Mini Projects  
 - 📊 Data Visualization with Pandas & Matplotlib  
 - 🤖 Machine Learning Practice Notebooks  
+---
+## 📊 GitHub Stats
+![Thejus's GitHub stats](https://github-readme-stats.vercel.app/api?username=thejuspk07&show_icons=true&theme=radical)
+
+## 🏆 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thejuspk07&layout=compact&theme=radical)
 
 ---
+
+![](https://komarev.com/ghpvc/?username=thejuspk07&color=blueviolet)
 
 ## 🌐 Connect With Me
 - 📧 Email: [thejusit6@gmail.com](mailto:thejusit6@gmail.com)  
