@@ -41,4 +41,4 @@
 ## 🌐 Connect With Me
 - 📧 Email: [thejusit6@gmail.com](mailto:thejusit6@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/thejus-pk-459004361](https://www.linkedin.com/in/thejus-pk-459004361/)  
-- 📂 Resume: [Google Drive Link](https://drive.google.com/file/d/1K-SHdhAeSINTVoisPDYJTTqBJ7_bcvTr/view?usp=drive_link)
+- 📂 Resume: [Google Drive Link](https://drive.google.com/file/d/1sQ0lUAI0rWvAlCryXZlU62yll2MebcJT/view?usp=drivesdk)
